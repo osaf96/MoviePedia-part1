@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviePedia</string>
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+    <string name="tmdb_sort_pop_desc">popularity.desc</string>
+</resources>
